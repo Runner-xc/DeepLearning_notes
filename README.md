@@ -4,19 +4,19 @@
 ## 日志：
 
 - **`2024/08/31 18:53:45`:**
-    - **FINISH:** 
+    - **DESCRIPTION:** 
         - [x] 学习转置卷积
         - [ ] 学习膨胀卷积
 
-    - **AUTHOR:**           *@Junyin Xiong* https://github.com/Helium-327
+    - **AUTHOR:**           [*@Junyin Xiong*](https://github.com/Helium-327)
     - **STATE:**             `Learning`
 
-- **`2024/09/02 17:14:52`:**
-    - **FINISH:** 
+- **FINISH ON `2024/09/02 17:14:52`:**
+    - **DESCRIPTION:** 
         - [x] 学习转置卷积
         - [x] 完成笔记输出
 
-    - **AUTHOR:**           *@Runner-xc* https://github.com/Runner-xc
+    - **AUTHOR:**           [*@Runner-xc*](https://github.com/Runner-xc) 
     - **STATE:**             `Done`
 
 ## 计划
