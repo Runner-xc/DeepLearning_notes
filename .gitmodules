@@ -1,0 +1,3 @@
+[submodule "tools/conv_arithmetic"]
+	path = tools/conv_arithmetic
+	url = git@github.com:Helium-327/conv_arithmetic.git
