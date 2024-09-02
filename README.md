@@ -23,13 +23,14 @@
 - Create on `2024/09/02 17:18:18`:
 
     - **TODO:（卷积）**
-        - [ ] 学习组卷积
-        - [ ] 学习扩张卷积
-        - [ ] 学习可变形卷积
-        - [ ] 学习深度可分离卷积
+        - [x] 学习转置卷积（Transpose Convolution）
+        - [x] 学习膨胀卷积（Dilated Convolution）
+        - [ ] 学习组卷积 （Group Convolution）
+        - [ ] 学习可变形卷积 （DCN，Deformable Convolution Network）
+        - [ ] 学习深度可分离卷积 （Depthwise Separable Convolution）
 
     - **TODO:（网络）**
-        - [ ] UNet
+        - [ ] UNet 
         - [ ] U2Net
         - [ ] ViT
         - [ ] Ki-UNet
