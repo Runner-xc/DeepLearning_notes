@@ -18,6 +18,8 @@
 
     - **AUTHOR:**           [*@Runner-xc*](https://github.com/Runner-xc) 
     - **STATE:**             `Done`
+- **`2024/09/03 21:51:43`:**
+
 
 ## 计划
 - Create on `2024/09/02 17:18:18`:
@@ -30,7 +32,7 @@
         - [ ] 学习深度可分离卷积 （Depthwise Separable Convolution）
 
     - **TODO:（网络）**
-        - [ ] UNet 
+        - [x] UNet3D 
         - [ ] U2Net
         - [ ] ViT
         - [ ] Ki-UNet
@@ -43,5 +45,5 @@
     - **TODO:（损失函数）**
         - [ ] CELoss
         - [ ] DiceLoss
-        - [ ] FocalLoss
+        - [x] FocalLoss
 
