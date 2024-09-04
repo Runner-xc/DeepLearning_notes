@@ -18,8 +18,22 @@
 
     - **AUTHOR:**           [*@Runner-xc*](https://github.com/Runner-xc) 
     - **STATE:**             `Done`
-- **`2024/09/03 21:51:43`:**
 
+- **FINISH ON `2024/09/02`:**
+    - **DESCRIPTION:** 
+        - [x] 完成 FocolLoss 的学习
+        - [x] 完成笔记输出
+
+    - **AUTHOR:**           [*@Runner-xc*](https://github.com/Runner-xc)
+    - **STATE:**             `Done`
+
+- **FINISH ON `2024/09/03 21:51:43`:**
+    - **DESCRIPTION:** 
+        - [x] 完成UNet3D 的学习
+        - [x] 完成笔记输出
+
+    - **AUTHOR:**           [*@Junyin Xiong*](https://github.com/Helium-327)
+    - **STATE:**             `Done`
 
 ## 计划
 - Create on `2024/09/02 17:18:18`:
