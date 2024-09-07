@@ -19,6 +19,31 @@
     - **AUTHOR:**           [*@Runner-xc*](https://github.com/Runner-xc) 
     - **STATE:**             `Done`
 
+- **FINISH ON `2024/09/02`:**
+    - **DESCRIPTION:** 
+        - [x] 完成 FocolLoss 的学习
+        - [x] 完成笔记输出
+
+    - **AUTHOR:**           [*@Runner-xc*](https://github.com/Runner-xc)
+    - **STATE:**             `Done`
+
+- **FINISH ON `2024/09/03 21:51:43`:**
+    - **DESCRIPTION:** 
+        - [x] 完成UNet3D 的学习
+        - [x] 完成笔记输出
+
+    - **AUTHOR:**           [*@Junyin Xiong*](https://github.com/Helium-327)
+    - **STATE:**             `Done`
+
+- **FINISH ON `2024/09/07 17:08:50`:**
+    - **DESCRIPTION:** 
+        - [x] 完成 CEloss 原理学习, 并完成代码调试
+        - [x] 完成 FocalLoss 原理学习, 并完成代码调试
+
+    - **AUTHOR:**           [*@Junyin Xiong*](https://github.com/Helium-327)
+    - **STATE:**             `Done`
+
+
 ## 计划
 - Create on `2024/09/02 17:18:18`:
 
@@ -30,7 +55,7 @@
         - [ ] 学习深度可分离卷积 （Depthwise Separable Convolution）
 
     - **TODO:（网络）**
-        - [ ] UNet 
+        - [x] UNet3D 
         - [ ] U2Net
         - [ ] ViT
         - [ ] Ki-UNet
@@ -41,7 +66,7 @@
         - [ ] CBAM
 
     - **TODO:（损失函数）**
-        - [ ] CELoss
+        - [x] CELoss
+        - [x] FocalLoss
         - [ ] DiceLoss
-        - [ ] FocalLoss
 
