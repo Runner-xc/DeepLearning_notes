@@ -35,6 +35,15 @@
     - **AUTHOR:**           [*@Junyin Xiong*](https://github.com/Helium-327)
     - **STATE:**             `Done`
 
+- **FINISH ON `2024/09/07 17:08:50`:**
+    - **DESCRIPTION:** 
+        - [x] 完成 CEloss 原理学习, 并完成代码调试
+        - [x] 完成 FocalLoss 原理学习, 并完成代码调试
+
+    - **AUTHOR:**           [*@Junyin Xiong*](https://github.com/Helium-327)
+    - **STATE:**             `Done`
+
+
 ## 计划
 - Create on `2024/09/02 17:18:18`:
 
@@ -57,7 +66,7 @@
         - [ ] CBAM
 
     - **TODO:（损失函数）**
-        - [ ] CELoss
-        - [ ] DiceLoss
+        - [x] CELoss
         - [x] FocalLoss
+        - [ ] DiceLoss
 
